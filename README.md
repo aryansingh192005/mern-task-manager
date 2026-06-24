@@ -1,3 +1,10 @@
+## Live Demo
+Frontend: https://mern-task-manager-lilac.vercel.app/  
+Backend API: https://mern-task-manager-backend-na23.onrender.com
+
+---
+
+
 # MERN Task Manager
 
 A full-stack task management web application built using the **MERN stack**.  
